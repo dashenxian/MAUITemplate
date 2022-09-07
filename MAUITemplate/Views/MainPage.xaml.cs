@@ -1,10 +1,10 @@
-﻿namespace MAUITemplate;
+﻿namespace MAUITemplate.Views;
 
-public partial class MainPage : ContentPage
+public partial class MainPage : BaseContentPage
 {
 	int count = 0;
 
-	public MainPage()
+	public MainPage(MainViewModel viewModel):base(viewModel)
 	{
 		InitializeComponent();
 	}

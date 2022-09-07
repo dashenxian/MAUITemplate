@@ -1,4 +1,4 @@
-﻿namespace MAUITemplate;
+﻿namespace $safeprojectname$;
 
 public static class MauiProgram
 {

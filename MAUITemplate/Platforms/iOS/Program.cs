@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace MAUITemplate;
+namespace $safeprojectname$;
 
 public class Program
 {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MAUITemplate.Models
+namespace $safeprojectname$.Models
 {
     public abstract class Entity<TKey>: IEntity<TKey>
     {

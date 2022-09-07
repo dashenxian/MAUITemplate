@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace MAUITemplate;
+namespace $safeprojectname$;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MAUITemplate.Models
+namespace $safeprojectname$.Models
 {
     /// <summary>
     /// 类型接口

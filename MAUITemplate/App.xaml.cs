@@ -1,4 +1,4 @@
-﻿namespace MAUITemplate;
+﻿namespace $safeprojectname$;
 
 public partial class App : Application
 {

@@ -1,7 +1,7 @@
 ﻿global using CommunityToolkit.Mvvm.ComponentModel;
 global using CommunityToolkit.Mvvm.Input;
-global using MAUITemplate.Models;
-global using MAUITemplate.ViewModels;
+global using $safeprojectname$.Models;
+global using $safeprojectname$.ViewModels;
 global using System.Collections.ObjectModel;
 global using System.ComponentModel;
 global using System.Diagnostics;
